@@ -24,6 +24,8 @@ print(question)
 
 type = io.read(1)
 
+-- here you should put what you want to run
+
 if type == "1" then
 	os.execute("nvim /home/zircon/.config/awesome/rc.lua")
 
@@ -43,12 +45,11 @@ elseif type =="6" then
 elseif type =="e" then
 	os.execute("nvim /home/zircon/scripts/lua/config_launcher.lua")
 
-elseif type =="*" then
+elseif type =="*" then --closes if no valid input is present
 	print(bruh)
 
 end
 
--- os.execute("touch " .. type .. ".naida") -- trowing stuff into the os.execute is cool
 
 os.execute("clear")
 
