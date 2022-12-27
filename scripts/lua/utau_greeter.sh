@@ -72,7 +72,7 @@ case $phraseA in
 	17)
 	  phraseA="\e[3mDo what you want cuss a pirate is free. You are a pirate!\e[0m";;
 	18)
-	  phraseA="What's on /cat/passwd?";;
+	  phraseA="What's on /dev/passwd?";;
 	19)
 	  phraseA="I am on your walls";;
 	20)
