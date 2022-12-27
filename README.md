@@ -7,6 +7,13 @@ The serve more as a base than anything else really.
 
 #### Scipt launcher
 
-![alt text](https://raw.githubusercontent.com/Zircon777/Stupid-dotfiles/main/img/image.png)
+![alt text](https://github.com/Zircon777/Stupid-dotfiles/blob/main/img/2022-12-27_15-06.png?raw=true)
 
 The little utility i made for editing my configs, but can run literally anything
+#
+#
+#### Utau Greeter
+
+![](https://github.com/Zircon777/Stupid-dotfiles/blob/main/img/2022-12-27_15-13.png?raw=true) 
+
+"Random" utaus will say "random" things, that's it, recomended to launch with your shell
